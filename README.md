@@ -1,5 +1,5 @@
 Trends in Indian Start-up Fund
-1. Introduction
+## Introduction
 Now a day's data analysis becomes highly impacting in every area who are actually running its business with a high flow of data, in this article, I provide some of my investigation into and analysis of funding for Indian start-ups for four years from 2018 to 2021.
 India has emerged as one of the fastest-growing startup ecosystems in the world, attracting significant investment in various sectors. The India startup funding dataset typically contains information on startup names, industry sectors, funding rounds, funding amounts, investor names, and funding dates.
 The goal was to use the data to explore the ecosystem, uncover insights, and recommend the best course of action to my fictional team attempting to enter the Indian start-up ecosystem.
